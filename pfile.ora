@@ -1,0 +1,26 @@
+orcllzl4.__db_cache_size=553648128
+orcllzl4.__java_pool_size=16777216
+orcllzl4.__large_pool_size=16777216
+orcllzl4.__oracle_base='D:\oracle'#ORACLE_BASE set from environment
+orcllzl4.__pga_aggregate_target=671088640
+orcllzl4.__sga_target=1006632960
+orcllzl4.__shared_io_pool_size=0
+orcllzl4.__shared_pool_size=402653184
+orcllzl4.__streams_pool_size=0
+*.audit_file_dest='D:\oracle\admin\orcllzl4\adump'
+*.audit_trail='db'
+*.compatible='11.2.0.0.0'
+*.control_files='D:\oracle\oradata\orcllzl4\control01.ctl','D:\oracle\flash_recovery_area\orcllzl4\control02.ctl'
+*.db_block_size=8192
+*.db_domain=''
+*.db_name='orcllzl4'
+*.db_recovery_file_dest='D:\oracle\flash_recovery_area'
+*.db_recovery_file_dest_size=4102029312
+*.diagnostic_dest='D:\oracle'
+*.dispatchers='(PROTOCOL=TCP) (SERVICE=orcllzl4XDB)'
+*.memory_target=1673527296
+*.open_cursors=300
+*.processes=150
+*.recyclebin='ON'
+*.remote_login_passwordfile='EXCLUSIVE'
+*.undo_tablespace='UNDOTBS1'
